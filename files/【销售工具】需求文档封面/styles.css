@@ -1,0 +1,129 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:800px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u0_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:800px;
+  height:640px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-left:0px;
+  border-top:0px;
+  border-radius:0px;
+  border-top-left-radius:0px;
+  border-top-right-radius:0px;
+  border-bottom-left-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u0 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:800px;
+  height:640px;
+}
+#u1 {
+  position:absolute;
+  left:2px;
+  top:312px;
+  width:796px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u2_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:800px;
+  height:50px;
+}
+#u2 {
+  position:absolute;
+  left:0px;
+  top:440px;
+  width:800px;
+  height:50px;
+  font-family:'Adobe 黑体 Std R', 'Adobe 黑体 Std';
+  font-weight:400;
+  font-style:normal;
+  font-size:20px;
+  color:#0066CC;
+}
+#u3 {
+  position:absolute;
+  left:2px;
+  top:5px;
+  width:796px;
+  word-wrap:break-word;
+}
+#u4_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:800px;
+  height:50px;
+}
+#u4 {
+  position:absolute;
+  left:0px;
+  top:197px;
+  width:800px;
+  height:50px;
+  font-family:'Adobe 黑体 Std R', 'Adobe 黑体 Std';
+  font-weight:400;
+  font-style:normal;
+  font-size:36px;
+  color:#000000;
+}
+#u5 {
+  position:absolute;
+  left:2px;
+  top:-11px;
+  width:796px;
+  word-wrap:break-word;
+}
+#u6_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:800px;
+  height:50px;
+}
+#u6 {
+  position:absolute;
+  left:0px;
+  top:479px;
+  width:800px;
+  height:50px;
+  font-family:'Adobe 黑体 Std R', 'Adobe 黑体 Std';
+  font-weight:400;
+  font-style:normal;
+  font-size:24px;
+  color:#000000;
+}
+#u7 {
+  position:absolute;
+  left:2px;
+  top:1px;
+  width:796px;
+  word-wrap:break-word;
+}
